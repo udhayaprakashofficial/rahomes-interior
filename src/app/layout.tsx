@@ -42,7 +42,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: site.brand.fullName,
     description:
-      "Transform your space into a masterpiece — residential interiors crafted with care.",
+      "Homes designed for the way you live — modular kitchens, wardrobes, living spaces, and full-home interiors in Thiruninravur.",
     type: "website",
     locale: "en_IN",
   },
